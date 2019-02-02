@@ -5,6 +5,8 @@ input [2:0] colour_background,
 output [7:0] X_pos_bkg, 
 output [6:0] Y_pos_bkg,
 output [2:0] colourOUT);
+//functioning comet sprite module implemented with a finite state machine. not implemented ultimately due to complexity of fsm
+	
 //this module will draw one pixel each clock cycle at the specified location on the
 //vga display
 //each time you instantiate this module, an asteroid will be drawn
