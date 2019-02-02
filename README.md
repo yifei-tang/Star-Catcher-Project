@@ -1,2 +1,2 @@
 # Star-Catcher-Project
-Partner project to create an interactive side scroller game with visually stimulating graphics and MIF displays
+An interactive side scroller game with PS-2 Keyboard Controls, VGA display of MIF files coded with Verilog
